@@ -5,12 +5,9 @@ A Rust implementation of two self-balancing binary search trees: **Red-Black Tre
 This project provides a reusable tree framework with shared abstractions for common tree operations, generic rotation logic, an interactive command-line interface, and benchmarking support.
 ## How to Use
 Make sure Rust and Cargo are installed.
-Build the project:
-`cargo build`
-Run the CLI:
-`cargo run`
-Run benchmarks:
-`cargo bench`
+Build the project: `cargo build`  
+Run the CLI: `cargo run`  
+Run benchmarks: `cargo bench`  
 ### Interactive CLI menu
 Enter the corresponding number to select type of trees.  
 ![CLI menu](images/image-1.png)  
