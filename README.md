@@ -12,14 +12,14 @@ Run the CLI:
 Run benchmarks:
 `cargo bench`
 ### Interactive CLI menu
-Enter the corresponding number to select type of trees.
-![CLI menu](images/image-1.png)
-Enter the corresponding number to select operations.
-![Operations menu](images/image-2.png)
-Let's insert some nodes into the Red-Black tree.
-![Insert example](images/image-3.png)
-Print the tree stucture to check.
-![Tree print example](images/image-4.png)
+Enter the corresponding number to select type of trees.  
+![CLI menu](images/image-1.png)  
+Enter the corresponding number to select operations.  
+![Operations menu](images/image-2.png)  
+Let's insert some nodes into the Red-Black tree.  
+![Insert example](images/image-3.png)  
+Print the tree stucture to check.  
+![Tree print example](images/image-4.png)  
 
 ## Features
 
